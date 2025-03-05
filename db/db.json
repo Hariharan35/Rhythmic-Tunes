@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Tum Hi Ho",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "src/assets/tumhiho.jpg",
+      "songUrl": "Songs/tumheho.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Dandelions",
+      "singer": "Ruth B",
+      "genre": "Pop",
+      "imgUrl": "src/assets/dandelion.jpeg",
+      "songUrl": "Songs/dandelions.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Vaa Kannamma",
+      "singer": "Sean Roldan",
+      "genre": "Tamil folk-fusionr",
+      "imgUrl": "src/assets/vaa.jpeg",
+      "songUrl": "Songs/vaakannamma.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "genre": "POP",
+      "imgUrl": "src/assets/perfect.jpg",
+      "songUrl": "Songs/perfect.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Look Me",
+      "singer": "Jonas Brothers",
+      "genre": "POP Rock",
+      "imgUrl": "src/assets/lookme.jpg",
+      "songUrl": "Songs/lookme.mp4"
+    },
+    {
+      "id": 7,
+      "title": "Love Is Gone",
+      "singer": "Slander & Dylan Matthew",
+      "genre": "Emotional Ballad",
+      "imgUrl": "src/assets/love.jpeg",
+      "songUrl": "Songs/iamsorry.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Dheema Dheema",
+      "singer": "Anirudh Ravichander",
+      "genre": "Tamil Flim Soundtrack",
+      "imgUrl": "src/assets/dheema.jpeg",
+      "songUrl": "Songs/dheema.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Love me Like you do",
+      "singer": "Ellie Goulding",
+      "genre": "Electropop",
+      "imgUrl": "src/assets/loveme.jpg",
+      "songUrl": "Songs/loveme.mp4"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 6,
+      "title": "Look Me",
+      "imgUrl": "src/assets/lookme.jpg",
+      "genre": "POP Rock",
+      "songUrl": "Songs/lookme.mp4",
+      "singer": "Jonas Brothers",
+      "id": 2
+    },
+    {
+      "itemId": 8,
+      "title": "Dheema Dheema",
+      "imgUrl": "src/assets/dheema.jpeg",
+      "genre": "Tamil Flim Soundtrack",
+      "songUrl": "Songs/dheema.mp3",
+      "singer": "Anirudh Ravichander",
+      "id": 3
+    },
+    {
+      "itemId": 7,
+      "title": "Love Is Gone",
+      "imgUrl": "src/assets/love.jpeg",
+      "genre": "Emotional Ballad",
+      "songUrl": "Songs/iamsorry.mp3",
+      "singer": "Slander & Dylan Matthew",
+      "id": 4
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 1,
+      "title": "Tum Hi Ho",
+      "imgUrl": "src/assets/tumhiho.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/tumheho.mp3",
+      "singer": "Arijit Singh",
+      "id": 1
+    }
+  ]
+}
